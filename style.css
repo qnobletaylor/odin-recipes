@@ -5,8 +5,9 @@
     width: 350px;
 }
 
-.homepage {
-    font-family: 'Brush Script MT', cursive;
+h1,
+h2 {
+    font-family: sans-serif;
 }
 
 body {
