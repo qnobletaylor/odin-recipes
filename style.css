@@ -1,0 +1,20 @@
+#ramenpic,
+#steakpic,
+#pizzapic {
+    height: auto;
+    width: 350px;
+}
+
+.homepage {
+    font-family: 'Brush Script MT', cursive;
+}
+
+body {
+    background-color:rgba(0, 162, 255, 0.329);
+}
+
+.disc {
+    height:auto;
+    width:500px;
+    text-align: left;
+}
