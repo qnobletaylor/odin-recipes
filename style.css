@@ -1,3 +1,9 @@
+/* {
+    outline: red 2px dashed;
+}
+
+*/
+
 #ramenpic,
 #steakpic,
 #pizzapic {
@@ -18,4 +24,24 @@ body {
     height:auto;
     width:500px;
     text-align: left;
+}
+
+.homepage ul li {
+    width: 100px;
+/*    border: 3px solid red; */
+}
+
+.homepage {
+    text-align:center;
+}
+
+.homepage ul {
+    padding: 0px;
+    list-style:none;
+    display:inline-flex;
+    margin-top: 0px;
+}
+
+.homepage h1 {
+    margin-bottom: 60px;
 }
