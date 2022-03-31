@@ -26,27 +26,17 @@ body {
     text-align: left;
 }
 
-.homepage ul li {
-    border: 3px dashed rgba(0, 0, 0, 0.527);
-/*    border: 3px solid red; */
+.box {
+    display:flex;
 }
 
-.homepage a {
-    width: 100px;
-    margin: 0 20px;
+.box a {
+    flex: 1;
+    border: 1.5px rgba(253, 73, 73, 0.829) dashed;
+    background: white;
+    margin: 0 30px;
 }
 
 .homepage {
-    text-align:center;
-}
-
-.homepage ul {
-    padding: 0px;
-    list-style:none;
-    display:inline-flex;
-    margin-top: 0px;
-}
-
-.homepage h1 {
-    margin-bottom: 30px;
+    text-align: center;
 }
